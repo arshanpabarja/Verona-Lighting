@@ -23,11 +23,7 @@ The tech stack includes:
 
 ---
 
-🧪 
-
----
-
-📸 You can see the live and deployed project on internet in this address veronalighting.ir
+📸 You can see the live and deployed project on internet in this address `veronalighting.ir`
 
 ---
 
