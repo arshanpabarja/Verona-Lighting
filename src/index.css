@@ -1,0 +1,19 @@
+@import "tailwindcss";
+/* Global resets or other CSS comes AFTER the imports */
+h1, h2, h3, h4, h5, h6, p, ul, li {
+  margin: 0;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;  /* scrollbar background */
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;  /* scrollbar handle */
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;  /* handle on hover */
+}
