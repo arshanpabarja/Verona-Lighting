@@ -1,4 +1,4 @@
-# 🛒 My Shop
+# 💡 Verona Lighting
 
 **Verona Lighting** is a fully responsive company web application built using 🐍 Django REST Framework (backend) and ⚛️ React.js (frontend).  
 It allows users to and browse products 🛍️. and CMS
