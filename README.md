@@ -1,15 +1,15 @@
 # 🛒 My Shop
 
-**My Shop** is a fully responsive e-commerce web application built using 🐍 Django REST Framework (backend) and ⚛️ React.js (frontend).  
-It allows users to register 🧑‍💻, log in 🔐, and browse products 🛍️.  
-Shopping cart 🛒, Stripe payment integration 💳, and admin dashboard ⚙️ are coming soon.  
+**Verona Lighting** is a fully responsive company web application built using 🐍 Django REST Framework (backend) and ⚛️ React.js (frontend).  
+It allows users to and browse products 🛍️. and CMS
+and admin dashboard ⚙️ are coming soon.  
 This is an actively developing project 🚧 aimed at delivering a modern and smooth shopping experience.
 
 ---
 
 Currently, the core features include:
 
-✅ User Authentication  
+✅ CMS
 ✅ Product Listing and Details  
 📱 Responsive UI designed with Figma and styled using Tailwind CSS  
 🧠 Decoupled frontend/backend architecture  
@@ -23,15 +23,11 @@ The tech stack includes:
 
 ---
 
-🧪 To run the project locally:
-
-1. Clone the repository  
-2. Navigate into `backend/shop`, create a virtualenv, install packages, and run the server  
-3. Navigate into `frontend/shop`, install dependencies using `npm install`, and run `npm start`
+🧪 
 
 ---
 
-📸 Screenshots and 🎯 live demo links will be added after the UI is finalized and deployed.
+📸 You can see the live and deployed project on internet in this address veronalighting.ir
 
 ---
 
